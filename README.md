@@ -1,3 +1,5 @@
+# About
+This is an api which allows users to add rooms and collect temperatures of those rooms.
 ## API: Home_temperature_collect_api
 technology usage: postgreSQL(AWS service), flask
 ### ADD ROOM
